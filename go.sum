@@ -1,0 +1,4 @@
+github.com/t14raptor/go-fast v0.0.1 h1:KxmdH3im7kdGJMDnOEQKAjdGvmXYfa4Q1qTK7iehE3A=
+github.com/t14raptor/go-fast v0.0.1/go.mod h1:TRGsWH2dNzlM+OqPoKF+gHIg51Z0mlM9P0FoNvTz6KU=
+golang.org/x/text v0.19.0 h1:kTxAhCbGbxhK0IwgSKiMO5awPoDQ0RpfiVYBfK860YM=
+golang.org/x/text v0.19.0/go.mod h1:BuEKDfySbSR4drPmRPG/7iBdf8hvFMuRexcpahXilzY=
